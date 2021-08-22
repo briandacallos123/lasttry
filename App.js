@@ -9,6 +9,7 @@ export default function App() {
       <Text>Hatdog</Text>
       <Text>Chisdog</Text>
       <Text>Hay</Text>
+      <Text>Hayyahay</Text>
       <StatusBar style="auto" />
     </View>
   );
